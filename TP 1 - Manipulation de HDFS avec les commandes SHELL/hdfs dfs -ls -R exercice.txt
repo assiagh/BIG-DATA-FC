@@ -1,0 +1,5 @@
+drwxr-xr-x   - root supergroup          0 2024-05-20 10:00 /exercice/archive
+-rw-r--r--   3 root supergroup        114 2024-05-20 10:05 /exercice/archive/clients.csv
+drwxr-xr-x   - root supergroup          0 2024-05-20 10:00 /exercice/export
+drwxr-xr-x   - root supergroup          0 2024-05-20 10:00 /exercice/raw
+-rw-r--r--   3 root supergroup        114 2024-05-20 10:02 /exercice/raw/clients.csv
